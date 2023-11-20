@@ -1,1 +1,4 @@
 My second file
+This is my change that isn't ready to commit yet
+second edit
+Third Edit
